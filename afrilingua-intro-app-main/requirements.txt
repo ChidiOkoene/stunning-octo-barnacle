@@ -1,0 +1,8 @@
+# This project uses Next.js API routes (not Python backend)
+# Python dependencies are not required
+# 
+# All backend logic is in: src/app/api/
+# Frontend dependencies: package.json
+# Backend: Next.js API Routes (TypeScript/Node.js)
+#
+# If you need Python for future scripts or tooling, add dependencies here

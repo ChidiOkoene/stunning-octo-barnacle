@@ -1,0 +1,248 @@
+{
+  "common": {
+    "nav": {
+      "home": "Nyumbani",
+      "about": "Kuhusu",
+      "roadmap": "Njia",
+      "register": "Jiandikishe",
+      "contact": "Wasiliana"
+    },
+    "footer": {
+      "copyright": "© 2025 AFRILingua DAO. Haki zote zimehifadhiwa.",
+      "description": "Kuimarisha lugha za Kiafrika kupitia utawala wa kijamii."
+    },
+    "language": "Lugha",
+    "loading": "Inapakia..."
+  },
+  "hero": {
+    "title": "Karibu AFRILingua",
+    "subtitle": "Kuimarisha lugha za Kiafrika kupitia utawala wa kijamii",
+    "description": "Jiunge na DAO yetu ili kuhifadhi, kueneza na kuboresha lugha za Kiafrika kwa kutumia teknolojia ya blockchain na mbinu za jumuiya.",
+    "cta": {
+      "primary": "Jiunge na DAO",
+      "secondary": "Jifunze Zaidi",
+      "whitepaper": "Pakua Waraka"
+    }
+  },
+  "register": {
+    "title": "Jiunge na AFRILingua DAO",
+    "subtitle": "Chagua jukumu lako na anza kuchangia kuhifadhi lugha za Kiafrika",
+    "form": {
+      "firstName": "Jina la kwanza",
+      "lastName": "Jina la familia",
+      "email": "Anwani ya barua pepe",
+      "dateOfBirth": "Tarehe ya kuzaliwa",
+      "countryOfOrigin": "Nchi ya asili",
+      "selectCountry": "Chagua nchi yako",
+      "ethnicOfOrigin": "Kabila la asili",
+      "motherTongue": "Lugha ya mama",
+      "linguaFranca": "Lugha ya mawasiliano",
+      "linguaFrancaOptions": {
+        "en": "Kiingereza",
+        "fr": "Kifaransa"
+      },
+      "role": "Jukumu",
+      "roleOptions": {
+        "coreTeam": "Mwanachama wa Timu ya Msingi",
+        "ambassador": "Balozi",
+        "validator": "Mhakiki",
+        "contributor": "Mchangiaji",
+        "technicalPlayer": "Mwanateknolojia"
+      },
+      "submit": "Wasilisha usajili",
+      "success": "Usajili umefanikiwa! Tutawasiliana hivi karibuni.",
+      "error": "Hitilafu imetokea. Tafadhali jaribu tena."
+    },
+    "roles": {
+      "coreTeam": {
+        "title": "Mwanachama wa Timu ya Msingi",
+        "description": "Kuongoza mipango ya kimkakati na kuendeleza maono ya DAO."
+      },
+      "ambassador": {
+        "title": "Balozi",
+        "description": "Kuwakilisha AFRILingua katika jamii yako na kueneza ufahamu."
+      },
+      "validator": {
+        "title": "Mhakiki",
+        "description": "Kuthibitisha maudhui ya lugha na kuhakikisha viwango vya ubora."
+      },
+      "contributor": {
+        "title": "Mchangiaji",
+        "description": "Kuchangia rasilimali za lugha, tafsiri, na maudhui."
+      },
+      "technicalPlayer": {
+        "title": "Mwanateknolojia",
+        "description": "Kujenga zana, miundombinu, na suluhu za kiteknolojia."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Kuhusu AFRILingua DAO",
+      "subtitle": "Kuhifadhi na kuimarisha lugha za Kiafrika kwa vizazi vijavyo"
+    },
+    "mission": {
+      "title": "Misioni Yetu",
+      "description": "AFRILingua DAO ni shirika huru la kijamii linalojitolea kuhifadhi, kuweza tena, na kuimarisha lugha za Kiafrika kupitia teknolojia ya blockchain na utawala wa kijamii.",
+      "statement": "Kuhakikisha kuwa kila lugha ya Kiafrika inaendelea katika enzi ya kidijitali, kuunganisha jamii na kuhifadhi urithi wa kitamaduni kwa vizazi vijavyo."
+    },
+    "vision": {
+      "title": "Dira Yetu",
+      "description": "Tunaona siku za usoni ambapo lugha za Kiafrika zimekuwa za kidijitali kabisa, zinapatikana, na zinastawi katika jukwaa la dunia.",
+      "pillar1": {
+        "title": "Kuhifadhi Kidijitali",
+        "description": "Kuunda hifadhi kamili za kidijitali za lugha za Kiafrika, pamoja na maandishi, rekodi za sauti, na muktadha wa kitamaduni."
+      },
+      "pillar2": {
+        "title": "Kupatikana Duniani",
+        "description": "Kufanya lugha za Kiafrika zipatikane kwa wanafunzi duniani kote kupitia teknolojia na rasilimali za elimu."
+      }
+    },
+    "problem": {
+      "title": "Changamoto Tunayokabili",
+      "stat1": {
+        "title": "Hatari ya Lugha",
+        "description": "Zaidi ya lugha 2,000 za Kiafrika zinaathiriwa na kutoweka, nyingi hazina uwepo wa kidijitali."
+      },
+      "stat2": {
+        "title": "Kupoteza Utamaduni",
+        "description": "Kwa kila lugha iliyopotea, tunapoteza maarifa ya kipekee ya kitamaduni, mila, na mitazamo ya ulimwengu."
+      },
+      "stat3": {
+        "title": "Rasilimali Ndogo",
+        "description": "Ukosefu wa ufadhili, hati, na miundombinu ya kiteknolojia huzuia juhudi za kuhifadhi lugha."
+      }
+    },
+    "solution": {
+      "title": "Suluhisho Letu",
+      "description": "AFRILingua DAO inatumia teknolojia ya blockchain na utawala wa kijamii kuunda jukwaa endelevu la kijamii la kuhifadhi na kukuza lugha za Kiafrika.",
+      "feature1": {
+        "title": "Utawala wa Kijamii",
+        "description": "Wanajamii hufanya maamuzi kupitia michakato ya kidemokrasia ya uwazi kwa kutumia kupiga kura kwa misingi ya blockchain."
+      },
+      "feature2": {
+        "title": "Miundombinu ya Kidijitali",
+        "description": "Kuunda maktaba kamili za kidijitali, zana za kutafsiri, na mifumo ya kujifunza kwa lugha za Kiafrika."
+      },
+      "feature3": {
+        "title": "Ushirikiano wa Jamii",
+        "description": "Kuwapa nguvu wazungumzaji wa asili, wanalinguistiki, na watu wa shauku kuongeza maudhui, kuthibitisha tafsiri, na kueneza ufahamu."
+      },
+      "feature4": {
+        "title": "Ufadhili Endelevu",
+        "description": "Kutumia njia za ufadhili zenye misingi ya blockchain ili kuhakikisha uendelevu wa muda mrefu na malipo mafaa kwa wachangiaji."
+      }
+    },
+    "values": {
+      "title": "Maadili Yetu ya Msingi",
+      "value1": {
+        "title": "Kuhifadhi Utamaduni",
+        "description": "Tunaamini kila lugha ni hazina ya thamani ya kitamaduni ambayo lazima ilindwe na isherehekewe."
+      },
+      "value2": {
+        "title": "Uwazi",
+        "description": "Tunakaribisha lugha zote za Kiafrika, lahaja, na jamii za lugha kwa heshima na msaada sawa."
+      },
+      "value3": {
+        "title": "Ubunifu",
+        "description": "Tunakubali teknolojia ya kisasa ili kutatua changamoto za jadi katika kuhifadhi lugha."
+      }
+    },
+    "cta": {
+      "title": "Jiunge na Harakati",
+      "description": "Kuwa sehemu ya mapinduzi yanayohifadhi lugha za Kiafrika kwa vizazi vijavyo.",
+      "button": "Jiandikishe Sasa"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "title": "Njia Yetu",
+      "subtitle": "Kupanga njia ya siku za usoni za lugha nyingi za Kiafrika"
+    },
+    "phase1": {
+      "title": "Awamu ya Msingi",
+      "timeline": "Robo 1-2 2025",
+      "description": "Kuanzisha miundombinu ya msingi, mfumo wa utawala, na msingi wa jamii.",
+      "milestones": {
+        "m1": "Kuanzisha muundo wa utawala wa DAO",
+        "m2": "Kuwajenga wanachama wa timu ya msingi na mabalozi",
+        "m3": "Kuunda usanifu wa jukwaa la awali",
+        "m4": "Kuwajenga wanachama wa kwanza 100 wa jamii"
+      },
+      "outcomesTitle": "Matokeo Yanayotarajiwa",
+      "outcomes": {
+        "o1": "Mfumo wa utawala wa DAO unaofanya kazi",
+        "o2": "Jamii hai ya wanachama 100+",
+        "o3": "Msingi wa miundombinu ya kiteknolojia"
+      }
+    },
+    "phase2": {
+      "title": "Maendeleo ya Maudhui",
+      "timeline": "Robo 3-4 2025",
+      "description": "Kuunda rasilimali kamili za lugha na kuanza juhudi za kidijitali.",
+      "milestones": {
+        "m1": "Kuanzisha portal ya hati za lugha",
+        "m2": "Kuunda kamusi za kidijitali kwa lugha 10+",
+        "m3": "Kuunda zana za kutafsiri na API",
+        "m4": "Kuanzisha michakato ya uthibitishaji"
+      },
+      "outcomesTitle": "Matokeo Yanayotarajiwa",
+      "outcomes": {
+        "o1": "Lugha 10+ zenye rasilimali za kidijitali",
+        "o2": "Maktaba ya maudhui inayoendeshwa na jamii",
+        "o3": "Zana za kutafsiri na uthibitishaji"
+      }
+    },
+    "phase3": {
+      "title": "Kupanua Jukwaa",
+      "timeline": "Robo 1-2 2026",
+      "description": "Kuongeza jukwaa, kuanzisha huduma za hali ya juu, na kupanua chanjo ya lugha.",
+      "milestones": {
+        "m1": "Kuanzisha jukwaa la kujifunza na kozi za mwingiliano",
+        "m2": "Kuunda programu za mkononi",
+        "m3": "Kuingiza zana za lugha zenye nguvu za AI",
+        "m4": "Kupanua kwa lugha 50+ za Kiafrika"
+      },
+      "outcomesTitle": "Matokeo Yanayotarajiwa",
+      "outcomes": {
+        "o1": "Jukwaa kamili la kujifunza",
+        "o2": "Programu za mkononi kwa iOS na Android",
+        "o3": "Zana za lugha zilizoboreshwa na AI"
+      }
+    },
+    "phase4": {
+      "title": "Athari ya Dunia",
+      "timeline": "Robo 3 2026+",
+      "description": "Kufikia utambuzi wa dunia na kuanzisha AFRILingua kama jukwaa la kwanza la lugha za Kiafrika.",
+      "milestones": {
+        "m1": "Kufikia watumiaji milioni 1 wanaoendelea",
+        "m2": "Kushirikiana na taasisi za elimu",
+        "m3": "Kuanzisha programu za cheti",
+        "m4": "Kuanzisha uwepo wa kimataifa"
+      },
+      "outcomesTitle": "Matokeo Yanayotarajiwa",
+      "outcomes": {
+        "o1": "Jamii ya dunia ya wanafunzi wa lugha",
+        "o2": "Mamlaka ya cheti inayotambuliwa",
+        "o3": "Mfumo endelevu wa kuhifadhi lugha"
+      }
+    },
+    "future": {
+      "title": "Dira ya Muda Mrefu",
+      "description": "Safari yetu haijaisha hapa. Tunaona ulimwengu ambapo kila lugha ya Kiafrika inastawi kidijitali.",
+      "goal1": {
+        "title": "Kupatikana Kwa Ujumla",
+        "description": "Kufanya lugha zote za Kiafrika zipatikane kwa mtu yeyote, popote duniani."
+      },
+      "goal2": {
+        "title": "Urithi wa Kitamaduni",
+        "description": "Kuunda hifadhi ya kidijitali ya kina zaidi ya urithi wa lugha za Kiafrika iliyowahi kuundwa."
+      },
+      "goal3": {
+        "title": "Kizazi Kijacho",
+        "description": "Kuwapa nguvu vizazi vijavyo kuungana na mizizi yao kupitia teknolojia."
+      }
+    }
+  }
+}
+

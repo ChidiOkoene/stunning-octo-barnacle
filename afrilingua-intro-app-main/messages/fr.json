@@ -1,0 +1,248 @@
+{
+  "common": {
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "roadmap": "Feuille de route",
+      "register": "S'inscrire",
+      "contact": "Contact"
+    },
+    "footer": {
+      "copyright": "© 2025 AFRILingua DAO. Tous droits réservés.",
+      "description": "Autonomiser les langues africaines grâce à une gouvernance décentralisée."
+    },
+    "language": "Langue",
+    "loading": "Chargement..."
+  },
+  "hero": {
+    "title": "Bienvenue sur AFRILingua",
+    "subtitle": "Autonomiser les langues africaines grâce à une gouvernance décentralisée",
+    "description": "Rejoignez notre DAO pour préserver, promouvoir et améliorer les langues africaines en utilisant la technologie blockchain et des initiatives communautaires.",
+    "cta": {
+      "primary": "Rejoindre la DAO",
+      "secondary": "En savoir plus",
+      "whitepaper": "Télécharger le Livre Blanc"
+    }
+  },
+  "register": {
+    "title": "Rejoindre AFRILingua DAO",
+    "subtitle": "Choisissez votre rôle et commencez à contribuer à la préservation des langues africaines",
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+      "email": "Adresse e-mail",
+      "dateOfBirth": "Date de naissance",
+      "countryOfOrigin": "Pays d'origine",
+      "selectCountry": "Sélectionnez votre pays",
+      "ethnicOfOrigin": "Groupe ethnique d'origine",
+      "motherTongue": "Langue maternelle",
+      "linguaFranca": "Lingua franca",
+      "linguaFrancaOptions": {
+        "en": "Anglais",
+        "fr": "Français"
+      },
+      "role": "Rôle",
+      "roleOptions": {
+        "coreTeam": "Membre de l'équipe principale",
+        "ambassador": "Ambassadeur",
+        "validator": "Validateur",
+        "contributor": "Contributeur",
+        "technicalPlayer": "Joueur technique"
+      },
+      "submit": "Soumettre l'inscription",
+      "success": "Inscription réussie ! Nous vous contacterons bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "roles": {
+      "coreTeam": {
+        "title": "Membre de l'équipe principale",
+        "description": "Diriger les initiatives stratégiques et faire avancer la vision de la DAO."
+      },
+      "ambassador": {
+        "title": "Ambassadeur",
+        "description": "Représenter AFRILingua dans votre communauté et sensibiliser."
+      },
+      "validator": {
+        "title": "Validateur",
+        "description": "Valider le contenu linguistique et garantir les normes de qualité."
+      },
+      "contributor": {
+        "title": "Contributeur",
+        "description": "Contribuer des ressources linguistiques, des traductions et du contenu."
+      },
+      "technicalPlayer": {
+        "title": "Joueur technique",
+        "description": "Construire des outils, des infrastructures et des solutions techniques."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À propos d'AFRILingua DAO",
+      "subtitle": "Préserver et autonomiser les langues africaines pour les générations futures"
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "AFRILingua DAO est une organisation autonome décentralisée dédiée à la préservation, à la revitalisation et à l'autonomisation des langues africaines grâce à la technologie blockchain innovante et à la gouvernance communautaire.",
+      "statement": "Assurer que chaque langue africaine prospère à l'ère numérique, en connectant les communautés et en préservant le patrimoine culturel pour les générations à venir."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Nous envisageons un avenir où les langues africaines sont entièrement numérisées, accessibles et prospères sur la scène mondiale.",
+      "pillar1": {
+        "title": "Préservation Numérique",
+        "description": "Créer des archives numériques complètes des langues africaines, incluant textes écrits, enregistrements audio et contextes culturels."
+      },
+      "pillar2": {
+        "title": "Accessibilité Mondiale",
+        "description": "Rendre les langues africaines accessibles aux apprenants du monde entier grâce à la technologie et aux ressources éducatives."
+      }
+    },
+    "problem": {
+      "title": "Le Défi que Nous Relevons",
+      "stat1": {
+        "title": "Menace Linguistique",
+        "description": "Plus de 2 000 langues africaines sont menacées d'extinction, beaucoup n'ayant aucune présence numérique."
+      },
+      "stat2": {
+        "title": "Perte Culturelle",
+        "description": "Avec chaque langue perdue, nous perdons des connaissances culturelles uniques, des traditions et des visions du monde."
+      },
+      "stat3": {
+        "title": "Ressources Limitées",
+        "description": "Le manque de financement, de documentation et d'infrastructure technologique entrave les efforts de préservation linguistique."
+      }
+    },
+    "solution": {
+      "title": "Notre Solution",
+      "description": "AFRILingua DAO exploite la technologie blockchain et la gouvernance décentralisée pour créer une plateforme durable et communautaire pour la préservation et la promotion des langues africaines.",
+      "feature1": {
+        "title": "Gouvernance Décentralisée",
+        "description": "Les membres de la communauté prennent des décisions via des processus démocratiques transparents utilisant le vote basé sur la blockchain."
+      },
+      "feature2": {
+        "title": "Infrastructure Numérique",
+        "description": "Construire des bibliothèques numériques complètes, des outils de traduction et des plateformes d'apprentissage pour les langues africaines."
+      },
+      "feature3": {
+        "title": "Engagement Communautaire",
+        "description": "Autonomiser les locuteurs natifs, linguistes et passionnés pour contribuer du contenu, valider les traductions et sensibiliser."
+      },
+      "feature4": {
+        "title": "Financement Durable",
+        "description": "Utiliser des mécanismes de financement basés sur la blockchain pour assurer la durabilité à long terme et une compensation équitable pour les contributeurs."
+      }
+    },
+    "values": {
+      "title": "Nos Valeurs Fondamentales",
+      "value1": {
+        "title": "Préservation Culturelle",
+        "description": "Nous croyons que chaque langue est un trésor culturel inestimable qui doit être protégé et célébré."
+      },
+      "value2": {
+        "title": "Inclusivité",
+        "description": "Nous accueillons toutes les langues africaines, dialectes et communautés linguistiques avec un respect et un soutien égaux."
+      },
+      "value3": {
+        "title": "Innovation",
+        "description": "Nous adoptons la technologie de pointe pour résoudre les défis traditionnels de la préservation linguistique."
+      }
+    },
+    "cta": {
+      "title": "Rejoignez le Mouvement",
+      "description": "Faites partie de la révolution qui préserve les langues africaines pour les générations futures.",
+      "button": "S'inscrire Maintenant"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "title": "Notre Feuille de Route",
+      "subtitle": "Tracer le chemin vers un avenir africain multilingue"
+    },
+    "phase1": {
+      "title": "Phase de Fondation",
+      "timeline": "T1-T2 2025",
+      "description": "Établir l'infrastructure de base, le cadre de gouvernance et la base communautaire initiale.",
+      "milestones": {
+        "m1": "Lancer la structure de gouvernance DAO",
+        "m2": "Recruter des membres de l'équipe principale et des ambassadeurs",
+        "m3": "Développer l'architecture de plateforme initiale",
+        "m4": "Intégrer les 100 premiers membres de la communauté"
+      },
+      "outcomesTitle": "Résultats Attendus",
+      "outcomes": {
+        "o1": "Système de gouvernance DAO fonctionnel",
+        "o2": "Communauté active de 100+ membres",
+        "o3": "Fondation de l'infrastructure technique"
+      }
+    },
+    "phase2": {
+      "title": "Développement de Contenu",
+      "timeline": "T3-T4 2025",
+      "description": "Construire des ressources linguistiques complètes et commencer les efforts de numérisation.",
+      "milestones": {
+        "m1": "Lancer le portail de documentation linguistique",
+        "m2": "Créer des dictionnaires numériques pour 10+ langues",
+        "m3": "Développer des outils de traduction et des API",
+        "m4": "Établir des processus de validation"
+      },
+      "outcomesTitle": "Résultats Attendus",
+      "outcomes": {
+        "o1": "10+ langues avec ressources numériques",
+        "o2": "Bibliothèque de contenu communautaire",
+        "o3": "Outils de traduction et de validation"
+      }
+    },
+    "phase3": {
+      "title": "Expansion de la Plateforme",
+      "timeline": "T1-T2 2026",
+      "description": "Mettre à l'échelle la plateforme, introduire des fonctionnalités avancées et étendre la couverture linguistique.",
+      "milestones": {
+        "m1": "Lancer la plateforme d'apprentissage avec cours interactifs",
+        "m2": "Développer des applications mobiles",
+        "m3": "Intégrer des outils linguistiques alimentés par l'IA",
+        "m4": "S'étendre à 50+ langues africaines"
+      },
+      "outcomesTitle": "Résultats Attendus",
+      "outcomes": {
+        "o1": "Plateforme d'apprentissage complète",
+        "o2": "Applications mobiles pour iOS et Android",
+        "o3": "Outils linguistiques améliorés par IA"
+      }
+    },
+    "phase4": {
+      "title": "Impact Mondial",
+      "timeline": "T3 2026+",
+      "description": "Atteindre une reconnaissance mondiale et établir AFRILingua comme la principale plateforme pour les langues africaines.",
+      "milestones": {
+        "m1": "Atteindre 1 million d'utilisateurs actifs",
+        "m2": "Partenariat avec des institutions éducatives",
+        "m3": "Lancer des programmes de certification",
+        "m4": "Établir une présence internationale"
+      },
+      "outcomesTitle": "Résultats Attendus",
+      "outcomes": {
+        "o1": "Communauté mondiale d'apprenants de langues",
+        "o2": "Autorité de certification reconnue",
+        "o3": "Écosystème durable pour la préservation linguistique"
+      }
+    },
+    "future": {
+      "title": "Vision à Long Terme",
+      "description": "Notre voyage ne s'arrête pas ici. Nous envisageons un monde où chaque langue africaine prospère numériquement.",
+      "goal1": {
+        "title": "Accès Universel",
+        "description": "Rendre toutes les langues africaines accessibles à tous, partout dans le monde."
+      },
+      "goal2": {
+        "title": "Patrimoine Culturel",
+        "description": "Créer l'archive numérique la plus complète du patrimoine linguistique africain jamais assemblée."
+      },
+      "goal3": {
+        "title": "Prochaine Génération",
+        "description": "Autonomiser les générations futures pour se connecter à leurs racines grâce à la technologie."
+      }
+    }
+  }
+}
+

@@ -1,0 +1,248 @@
+{
+  "common": {
+    "nav": {
+      "home": "Gida",
+      "about": "Game da",
+      "roadmap": "Taswirar hanya",
+      "register": "Yi rajista",
+      "contact": "Tuntuɓi"
+    },
+    "footer": {
+      "copyright": "© 2025 AFRILingua DAO. Duk haƙƙoƙin mallaka.",
+      "description": "Ƙarfafa harsunan Afirka ta hanyar mulkin gudanarwa."
+    },
+    "language": "Harshe",
+    "loading": "Ana lodawa..."
+  },
+  "hero": {
+    "title": "Barka da zuwa AFRILingua",
+    "subtitle": "Ƙarfafa harsunan Afirka ta hanyar mulkin gudanarwa",
+    "description": "Ku shiga DAO ɗinmu don kiyayewa, tallatawa, da haɓaka harsunan Afirka ta amfani da fasahar blockchain da shirye-shiryen al'umma.",
+    "cta": {
+      "primary": "Shiga DAO",
+      "secondary": "Koyi ƙari",
+      "whitepaper": "Zazzage Takardar Fari"
+    }
+  },
+  "register": {
+    "title": "Shiga AFRILingua DAO",
+    "subtitle": "Zaɓi matsayinka kuma fara ba da gudummawa ga kiyayewar harsunan Afirka",
+    "form": {
+      "firstName": "Sunan farko",
+      "lastName": "Sunan iyali",
+      "email": "Adireshin imel",
+      "dateOfBirth": "Ranar haihuwa",
+      "countryOfOrigin": "Ƙasar asali",
+      "selectCountry": "Zaɓi ƙasarka",
+      "ethnicOfOrigin": "Ƙabila ta asali",
+      "motherTongue": "Harshen uwa",
+      "linguaFranca": "Harshen sadarwa",
+      "linguaFrancaOptions": {
+        "en": "Turanci",
+        "fr": "Faransanci"
+      },
+      "role": "Matsayi",
+      "roleOptions": {
+        "coreTeam": "Memba na Ƙungiyar Asali",
+        "ambassador": "Jakadan",
+        "validator": "Mai tabbatarwa",
+        "contributor": "Mai ba da gudummawa",
+        "technicalPlayer": "Mai aikin fasaha"
+      },
+      "submit": "Gabatar da rajista",
+      "success": "Rajista ta yi nasara! Za mu tuntuɓe ku nan ba da jimawa ba.",
+      "error": "An sami kuskure. Don Allah sake gwadawa."
+    },
+    "roles": {
+      "coreTeam": {
+        "title": "Memba na Ƙungiyar Asali",
+        "description": "Jagoranci shirye-shiryen dabarun kuma tura hangen nesa na DAO gaba."
+      },
+      "ambassador": {
+        "title": "Jakadan",
+        "description": "Wakilci AFRILingua a cikin al'ummarka kuma yada wayar da kan jama'a."
+      },
+      "validator": {
+        "title": "Mai tabbatarwa",
+        "description": "Tabbatar da abun cikin harshe kuma tabbatar da ƙa'idodin inganci."
+      },
+      "contributor": {
+        "title": "Mai ba da gudummawa",
+        "description": "Ba da albarkatun harshe, fassarori, da abun ciki."
+      },
+      "technicalPlayer": {
+        "title": "Mai aikin fasaha",
+        "description": "Gina kayan aiki, ababen more rayuwa, da mafita na fasaha."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Game da AFRILingua DAO",
+      "subtitle": "Kiyayewa da ƙarfafa harsunan Afirka don tsararraki masu zuwa"
+    },
+    "mission": {
+      "title": "Manufa Mu",
+      "description": "AFRILingua DAO ƙungiya ce mai cin gashin kanta wacce ke sadaukar da kai don kiyayewa, raya, da ƙarfafa harsunan Afirka ta hanyar fasahar blockchain da mulkin al'umma.",
+      "statement": "Don tabbatar da cewa kowane yaren Afirka yana bunƙasa a zamanin dijital, haɗa al'ummomi da kiyaye al'adun gargajiya don tsararraki masu zuwa."
+    },
+    "vision": {
+      "title": "Hangaren Mu",
+      "description": "Muna hasashen makoma inda harsunan Afirka za su kasance cikakke na dijital, samuwa, kuma suna bunƙasa a fagen duniya.",
+      "pillar1": {
+        "title": "Kiyayewar Dijital",
+        "description": "Ƙirƙiri cikakken rumbunan dijital na harsunan Afirka, gami da rubutattun rubutu, rikodin sauti, da mahallin al'ada."
+      },
+      "pillar2": {
+        "title": "Samuwa Duniya",
+        "description": "Sanya harsunan Afirka samuwa ga ɗalibai a duk faɗin duniya ta hanyar fasaha da albarkatun ilimi."
+      }
+    },
+    "problem": {
+      "title": "Kalubalen da Muke Fuskantawa",
+      "stat1": {
+        "title": "Barazanar Harshe",
+        "description": "Fiye da harsuna 2,000 na Afirka suna fuskantar halaka, da yawa ba su da yanayin dijital."
+      },
+      "stat2": {
+        "title": "Asarar Al'ada",
+        "description": "Tare da kowane harshe da aka rasa, muna rasa ilimin al'ada na musamman, al'adu, da ra'ayoyin duniya."
+      },
+      "stat3": {
+        "title": "Albarkatu Masu Iyaka",
+        "description": "Rashin kuɗi, takardu, da kayan aikin fasaha yana kawo cikas ga ƙoƙarin kiyaye harshe."
+      }
+    },
+    "solution": {
+      "title": "Magani Mu",
+      "description": "AFRILingua DAO tana amfani da fasahar blockchain da mulkin raba don ƙirƙirar dandamali mai dorewa, na al'umma don kiyayewa da haɓaka harsunan Afirka.",
+      "feature1": {
+        "title": "Mulkin Raba",
+        "description": "Membobin al'umma suna yanke shawara ta hanyar tsarin dimokuradiyya masu bayyanawa ta amfani da zaɓe na tushen blockchain."
+      },
+      "feature2": {
+        "title": "Kayan Dijital",
+        "description": "Gina cikakkun ɗakunan littattafan dijital, kayan aikin fassarar, da dandamalin koyo don harsunan Afirka."
+      },
+      "feature3": {
+        "title": "Shiga Al'umma",
+        "description": "Ƙarfafa masu magana na asali, masana harshe, da masu sha'awar bayar da gudummawa, tabbatar da fassarori, da yada wayar da kan jama'a."
+      },
+      "feature4": {
+        "title": "Kudade Mai Dorewa",
+        "description": "Yi amfani da hanyoyin kuɗi na tushen blockchain don tabbatar da dorewar dogon lokaci da adalci na biyan kuɗi ga masu ba da gudummawa."
+      }
+    },
+    "values": {
+      "title": "Ƙimar Mu ta Asali",
+      "value1": {
+        "title": "Kiyayewar Al'ada",
+        "description": "Mun yi imani cewa kowane harshe taska ce ta al'ada wanda dole ne a kiyaye shi kuma a yi bikin."
+      },
+      "value2": {
+        "title": "Haɗaɗɗun",
+        "description": "Muna maraba da duk harsunan Afirka, yaruka, da al'ummomin harshe tare da girmamawa da goyon baya daidai."
+      },
+      "value3": {
+        "title": "Ƙirƙira",
+        "description": "Muna rungumar fasaha mai ci gaba don magance kalubale na gargajiya a cikin kiyayewar harshe."
+      }
+    },
+    "cta": {
+      "title": "Shiga Ƙungiyar",
+      "description": "Ka kasance ɓangare na juyin juya halin da ke kiyaye harsunan Afirka don tsararraki masu zuwa.",
+      "button": "Yi Rajista Yanzu"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "title": "Taswirar Hanyar Mu",
+      "subtitle": "Tsara hanyar zuwa makomar Afirka mai yawan harsuna"
+    },
+    "phase1": {
+      "title": "Lokaci na Tushe",
+      "timeline": "Q1-Q2 2025",
+      "description": "Kafa kayan aiki na asali, tsarin mulki, da tushen al'umma na farko.",
+      "milestones": {
+        "m1": "Ƙaddamar da tsarin mulkin DAO",
+        "m2": "Ɗaukar membobin ƙungiyar asali da jakadu",
+        "m3": "Haɓaka tsarin dandamali na farko",
+        "m4": "Shigar da membobin al'umma 100 na farko"
+      },
+      "outcomesTitle": "Sakamakon da Ake Tsammani",
+      "outcomes": {
+        "o1": "Tsarin mulkin DAO mai aiki",
+        "o2": "Al'umma mai aiki na membobi 100+",
+        "o3": "Tushen kayan aikin fasaha"
+      }
+    },
+    "phase2": {
+      "title": "Haɓaka Abun ciki",
+      "timeline": "Q3-Q4 2025",
+      "description": "Gina cikakkun albarkatun harshe da fara ƙoƙarin dijital.",
+      "milestones": {
+        "m1": "Ƙaddamar da tashar takardun harshe",
+        "m2": "Ƙirƙiri ƙamus na dijital don harsuna 10+",
+        "m3": "Haɓaka kayan aikin fassarar da API",
+        "m4": "Kafa hanyoyin tabbatarwa"
+      },
+      "outcomesTitle": "Sakamakon da Ake Tsammani",
+      "outcomes": {
+        "o1": "Harsuna 10+ tare da albarkatun dijital",
+        "o2": "Laburaren abun ciki na al'umma",
+        "o3": "Kayan aikin fassarar da tabbatarwa"
+      }
+    },
+    "phase3": {
+      "title": "Faɗaɗa Dandamali",
+      "timeline": "Q1-Q2 2026",
+      "description": "Ƙara dandamali, gabatar da fasali masu ci gaba, da faɗaɗa ɗaukar harshe.",
+      "milestones": {
+        "m1": "Ƙaddamar da dandamalin koyo tare da darussan hulɗa",
+        "m2": "Haɓaka aikace-aikacen wayar hannu",
+        "m3": "Haɗa kayan aikin harshe masu amfani da AI",
+        "m4": "Faɗaɗa zuwa harsunan Afirka 50+"
+      },
+      "outcomesTitle": "Sakamakon da Ake Tsammani",
+      "outcomes": {
+        "o1": "Dandamalin koyo mai cikakken bayani",
+        "o2": "Aikace-aikacen wayar hannu don iOS da Android",
+        "o3": "Kayan aikin harshe masu haɓaka AI"
+      }
+    },
+    "phase4": {
+      "title": "Tasirin Duniya",
+      "timeline": "Q3 2026+",
+      "description": "Cimma sanin duniya da kafa AFRILingua a matsayin dandamali na farko na harsunan Afirka.",
+      "milestones": {
+        "m1": "Kai ga masu amfani miliyan 1 masu aiki",
+        "m2": "Haɗin gwiwa tare da cibiyoyin ilimi",
+        "m3": "Ƙaddamar da shirye-shiryen shaidar",
+        "m4": "Kafa kasancewar duniya"
+      },
+      "outcomesTitle": "Sakamakon da Ake Tsammani",
+      "outcomes": {
+        "o1": "Al'ummar duniya na masu koyo harshe",
+        "o2": "Hukumar shaidar da aka amince",
+        "o3": "Yanayin dorewa don kiyayewar harshe"
+      }
+    },
+    "future": {
+      "title": "Hangaren Dogon Lokaci",
+      "description": "Tafiyarmu ba ta ƙare a nan ba. Muna hasashen duniya inda kowane yaren Afirka yake bunƙasa ta hanyar dijital.",
+      "goal1": {
+        "title": "Samuwa Duniya",
+        "description": "Sanya duk harsunan Afirka samuwa ga kowa, a ko'ina cikin duniya."
+      },
+      "goal2": {
+        "title": "Gadon Al'ada",
+        "description": "Ƙirƙiri cikakkiyar rumbun dijital na gadon harshe na Afirka da aka taɓa tara."
+      },
+      "goal3": {
+        "title": "Ƙarni na Gaba",
+        "description": "Ƙarfafa tsararraki masu zuwa don haɗawa da tushen su ta hanyar fasaha."
+      }
+    }
+  }
+}
+

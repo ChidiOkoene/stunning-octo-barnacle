@@ -1,0 +1,286 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "roadmap": "Roadmap",
+      "register": "Register",
+      "contact": "Contact"
+    },
+    "footer": {
+      "copyright": "© 2025 AFRILingua DAO. All rights reserved.",
+      "description": "Empowering African languages through decentralized governance."
+    },
+    "language": "Language",
+    "loading": "Loading..."
+  },
+  "hero": {
+    "title": "Welcome to AFRILingua",
+    "subtitle": "Empowering African Languages Through Decentralized Governance",
+    "description": "Join our DAO to preserve, promote, and enhance African languages using blockchain technology and community-driven initiatives.",
+    "cta": {
+      "primary": "Join the DAO",
+      "secondary": "Learn More",
+      "whitepaper": "Download Whitepaper"
+    }
+  },
+  "register": {
+    "title": "Join AFRILingua DAO",
+    "subtitle": "Choose your role and start contributing to African language preservation",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "dateOfBirth": "Date of Birth",
+      "countryOfOrigin": "Country of Origin",
+      "selectCountry": "Select your country",
+      "ethnicOfOrigin": "Ethnic Group of Origin",
+      "motherTongue": "Mother Tongue",
+      "linguaFranca": "Lingua Franca",
+      "linguaFrancaOptions": {
+        "en": "English",
+        "fr": "French"
+      },
+      "role": "Role",
+      "roleOptions": {
+        "coreTeam": "Core Team Member",
+        "ambassador": "Ambassador",
+        "validator": "Validator",
+        "contributor": "Contributor",
+        "technicalPlayer": "Technical Player"
+      },
+      "submit": "Submit Registration",
+      "success": "Registration successful! We'll be in touch soon.",
+      "error": "An error occurred. Please try again."
+    },
+    "roles": {
+      "coreTeam": {
+        "title": "Core Team Member",
+        "description": "Lead strategic initiatives and drive the DAO's vision forward."
+      },
+      "ambassador": {
+        "title": "Ambassador",
+        "description": "Represent AFRILingua in your community and spread awareness."
+      },
+      "validator": {
+        "title": "Validator",
+        "description": "Validate language content and ensure quality standards."
+      },
+      "contributor": {
+        "title": "Contributor",
+        "description": "Contribute language resources, translations, and content."
+      },
+      "technicalPlayer": {
+        "title": "Technical Player",
+        "description": "Build tools, infrastructure, and technical solutions."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About AFRILingua DAO",
+      "subtitle": "Preserving and empowering African languages for future generations"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "AFRILingua DAO is a decentralized autonomous organization dedicated to preserving, revitalizing, and empowering African languages through innovative blockchain technology and community-driven governance.",
+      "statement": "To ensure that every African language thrives in the digital age, connecting communities and preserving cultural heritage for generations to come."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision a future where African languages are fully digitized, accessible, and thriving on the global stage.",
+      "pillar1": {
+        "title": "Digital Preservation",
+        "description": "Create comprehensive digital archives of African languages, including written texts, audio recordings, and cultural contexts."
+      },
+      "pillar2": {
+        "title": "Global Accessibility",
+        "description": "Make African languages accessible to learners worldwide through technology and educational resources."
+      }
+    },
+    "problem": {
+      "title": "The Challenge We Face",
+      "stat1": {
+        "title": "Language Endangerment",
+        "description": "Over 2,000 African languages face extinction, with many having no digital presence."
+      },
+      "stat2": {
+        "title": "Cultural Loss",
+        "description": "With each language lost, we lose unique cultural knowledge, traditions, and worldviews."
+      },
+      "stat3": {
+        "title": "Limited Resources",
+        "description": "Lack of funding, documentation, and technological infrastructure hinders language preservation efforts."
+      }
+    },
+    "solution": {
+      "title": "Our Solution",
+      "description": "AFRILingua DAO leverages blockchain technology and decentralized governance to create a sustainable, community-driven platform for African language preservation and promotion.",
+      "feature1": {
+        "title": "Decentralized Governance",
+        "description": "Community members make decisions through transparent, democratic processes using blockchain-based voting."
+      },
+      "feature2": {
+        "title": "Digital Infrastructure",
+        "description": "Build comprehensive digital libraries, translation tools, and learning platforms for African languages."
+      },
+      "feature3": {
+        "title": "Community Engagement",
+        "description": "Empower native speakers, linguists, and enthusiasts to contribute content, validate translations, and spread awareness."
+      },
+      "feature4": {
+        "title": "Sustainable Funding",
+        "description": "Utilize blockchain-based funding mechanisms to ensure long-term sustainability and fair compensation for contributors."
+      }
+    },
+    "values": {
+      "title": "Our Core Values",
+      "value1": {
+        "title": "Cultural Preservation",
+        "description": "We believe every language is a priceless cultural treasure that must be protected and celebrated."
+      },
+      "value2": {
+        "title": "Inclusivity",
+        "description": "We welcome all African languages, dialects, and linguistic communities with equal respect and support."
+      },
+      "value3": {
+        "title": "Innovation",
+        "description": "We embrace cutting-edge technology to solve traditional challenges in language preservation."
+      }
+    },
+    "cta": {
+      "title": "Join the Movement",
+      "description": "Be part of the revolution that's preserving African languages for future generations.",
+      "button": "Register Now"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "title": "Our Roadmap",
+      "subtitle": "Charting the path to a multilingual African future"
+    },
+    "phase1": {
+      "title": "Foundation Phase",
+      "timeline": "Q1-Q2 2025",
+      "description": "Establish the core infrastructure, governance framework, and initial community base.",
+      "milestones": {
+        "m1": "Launch DAO governance structure",
+        "m2": "Recruit core team members and ambassadors",
+        "m3": "Develop initial platform architecture",
+        "m4": "Onboard first 100 community members"
+      },
+      "outcomesTitle": "Expected Outcomes",
+      "outcomes": {
+        "o1": "Functional DAO governance system",
+        "o2": "Active community of 100+ members",
+        "o3": "Technical infrastructure foundation"
+      }
+    },
+    "phase2": {
+      "title": "Content Development",
+      "timeline": "Q3-Q4 2025",
+      "description": "Build comprehensive language resources and begin digitization efforts.",
+      "milestones": {
+        "m1": "Launch language documentation portal",
+        "m2": "Create digital dictionaries for 10+ languages",
+        "m3": "Develop translation tools and APIs",
+        "m4": "Establish validation processes"
+      },
+      "outcomesTitle": "Expected Outcomes",
+      "outcomes": {
+        "o1": "10+ languages with digital resources",
+        "o2": "Community-driven content library",
+        "o3": "Translation and validation tools"
+      }
+    },
+    "phase3": {
+      "title": "Platform Expansion",
+      "timeline": "Q1-Q2 2026",
+      "description": "Scale the platform, introduce advanced features, and expand language coverage.",
+      "milestones": {
+        "m1": "Launch learning platform with interactive courses",
+        "m2": "Develop mobile applications",
+        "m3": "Integrate AI-powered language tools",
+        "m4": "Expand to 50+ African languages"
+      },
+      "outcomesTitle": "Expected Outcomes",
+      "outcomes": {
+        "o1": "Comprehensive learning platform",
+        "o2": "Mobile apps for iOS and Android",
+        "o3": "AI-enhanced language tools"
+      }
+    },
+    "phase4": {
+      "title": "Global Impact",
+      "timeline": "Q3 2026+",
+      "description": "Achieve global recognition and establish AFRILingua as the premier platform for African languages.",
+      "milestones": {
+        "m1": "Reach 1 million active users",
+        "m2": "Partner with educational institutions",
+        "m3": "Launch certification programs",
+        "m4": "Establish international presence"
+      },
+      "outcomesTitle": "Expected Outcomes",
+      "outcomes": {
+        "o1": "Global community of language learners",
+        "o2": "Recognized certification authority",
+        "o3": "Sustainable ecosystem for language preservation"
+      }
+    },
+    "future": {
+      "title": "Long-Term Vision",
+      "description": "Our journey doesn't end here. We envision a world where every African language thrives digitally.",
+      "goal1": {
+        "title": "Universal Access",
+        "description": "Make all African languages accessible to anyone, anywhere in the world."
+      },
+      "goal2": {
+        "title": "Cultural Heritage",
+        "description": "Create the most comprehensive digital archive of African linguistic heritage ever assembled."
+      },
+      "goal3": {
+        "title": "Next Generation",
+        "description": "Empower future generations to connect with their roots through technology."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with the AFRILingua DAO team"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": {
+        "title": "Email",
+        "value": "contact@afrilingua.org"
+      },
+      "location": {
+        "title": "Location",
+        "value": "Global Community"
+      },
+      "hours": {
+        "title": "Support Hours",
+        "value": "Monday - Friday, 9:00 AM - 5:00 PM GMT"
+      }
+    },
+    "social": {
+      "title": "Connect With Us"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Message Sent!",
+        "message": "Thank you for contacting us. We'll get back to you as soon as possible.",
+        "sendAnother": "Send another message"
+      }
+    }
+  }
+}
+

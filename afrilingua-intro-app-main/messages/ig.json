@@ -1,0 +1,248 @@
+{
+  "common": {
+    "nav": {
+      "home": "Ụlọ",
+      "about": "Banyere",
+      "roadmap": "Ụzọ ọganihu",
+      "register": "Debanye aha",
+      "contact": "Kpọtụrụ"
+    },
+    "footer": {
+      "copyright": "© 2025 AFRILingua DAO. Ikike niile dị.",
+      "description": "Ime ka asụsụ Africa nwee ike site na ọchịchị nkewa."
+    },
+    "language": "Asụsụ",
+    "loading": "Na-ebu..."
+  },
+  "hero": {
+    "title": "Nabata na AFRILingua",
+    "subtitle": "Ime ka asụsụ Africa nwee ike site na ọchịchị nkewa",
+    "description": "Sonye na DAO anyị iji chebe, kwalite, ma kwalite asụsụ Africa site na iji teknụzụ blockchain na atumatu obodo.",
+    "cta": {
+      "primary": "Sonye na DAO",
+      "secondary": "Mụtakwuo",
+      "whitepaper": "Budata Akwụkwọ Ọcha"
+    }
+  },
+  "register": {
+    "title": "Sonye na AFRILingua DAO",
+    "subtitle": "Họrọ ọrụ gị ma malite inye aka n'ichekwa asụsụ Africa",
+    "form": {
+      "firstName": "Aha mbụ",
+      "lastName": "Aha nna",
+      "email": "Adreesị email",
+      "dateOfBirth": "Ụbọchị ọmụmụ",
+      "countryOfOrigin": "Obodo nke mbụ",
+      "selectCountry": "Họrọ obodo gị",
+      "ethnicOfOrigin": "Agbụrụ nke mbụ",
+      "motherTongue": "Asụsụ ala",
+      "linguaFranca": "Asụsụ e ji na-ekwu okwu",
+      "linguaFrancaOptions": {
+        "en": "Bekee",
+        "fr": "Frencị"
+      },
+      "role": "Ọrụ",
+      "roleOptions": {
+        "coreTeam": "Onye otu Core Team",
+        "ambassador": "Onye nnọchiteanya",
+        "validator": "Onye nkwado",
+        "contributor": "Onye na-enye aka",
+        "technicalPlayer": "Onye ọrụ teknụzụ"
+      },
+      "submit": "Nyefee ndebanye aha",
+      "success": "Ndebanye aha gara nke ọma! Anyị ga-akpọtụrụ gị n'oge na-adịghị anya.",
+      "error": "Ihe mmejọ mere. Biko nwaa ọzọ."
+    },
+    "roles": {
+      "coreTeam": {
+        "title": "Onye otu Core Team",
+        "description": "Duru atumatu atụmatụ ma mee ka ọhụụ DAO gaa n'ihu."
+      },
+      "ambassador": {
+        "title": "Onye nnọchiteanya",
+        "description": "Nọchite anya AFRILingua n'obodo gị ma gbasaa mmata."
+      },
+      "validator": {
+        "title": "Onye nkwado",
+        "description": "Kwado ọdịnaya asụsụ ma hụ na ụkpụrụ dị mma."
+      },
+      "contributor": {
+        "title": "Onye na-enye aka",
+        "description": "Nye akaere asụsụ, nsụgharị, na ọdịnaya."
+      },
+      "technicalPlayer": {
+        "title": "Onye ọrụ teknụzụ",
+        "description": "Wulite ngwaọrụ, akụrụngwa, na ngwọta teknụzụ."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Banyere AFRILingua DAO",
+      "subtitle": "Ichekwa na ime ka asụsụ Africa nwee ike maka ọgbọ ndị ga-abịa"
+    },
+    "mission": {
+      "title": "Ozi Anyị",
+      "description": "AFRILingua DAO bụ ọgbakọ na-achị onwe ya nke a na-etinye aka na ichekwa, iweghachi ume, na ime ka asụsụ Africa nwee ike site na teknụzụ blockchain na ọchịchị nke obodo na-achị.",
+      "statement": "Iji hụ na asụsụ ọ bụla nke Africa na-eto n'oge dijitalụ, na-ejikọta obodo dị iche iche ma na-echekwa ihe nketa omenala maka ọgbọ ndị na-abịa."
+    },
+    "vision": {
+      "title": "Ọhụụ Anyị",
+      "description": "Anyị na-eche ọdịnihu ebe asụsụ Africa ga-abụ dijitalụ zuru oke, dịnụ, ma na-eto n'ọkwa ụwa.",
+      "pillar1": {
+        "title": "Nchekwa Dijitalụ",
+        "description": "Mepụta ebe nchekwa dijitalụ zuru ezu nke asụsụ Africa, gụnyere ihe odide ederede, ihe ndekọ ụda, na ebe omenala."
+      },
+      "pillar2": {
+        "title": "Ịnweta Ụwa",
+        "description": "Mee ka asụsụ Africa dịnụ maka ndị na-amụ ihe n'ụwa niile site na teknụzụ na ihe onwunwe agụmakwụkwọ."
+      }
+    },
+    "problem": {
+      "title": "Ihe Ihe Ịma Anyị Na-eche Ihu",
+      "stat1": {
+        "title": "Ihe Ihe Ịma Ede",
+        "description": "Ihe karịrị asụsụ 2,000 nke Africa na-eche mbibi ihu, ọtụtụ nwere ọnụnọ dijitalụ ọ bụla."
+      },
+      "stat2": {
+        "title": "Mfu Omenala",
+        "description": "Na asụsụ ọ bụla furu efu, anyị na-efunahụ ihe ọmụma omenala pụrụ iche, omenala, na echiche ụwa."
+      },
+      "stat3": {
+        "title": "Ihe Onwunwe Amachaghị",
+        "description": "Enweghị ego, akwụkwọ, na akụrụngwa teknụzụ na-egbochi mgbalị ichekwa asụsụ."
+      }
+    },
+    "solution": {
+      "title": "Ngwọta Anyị",
+      "description": "AFRILingua DAO na-eji teknụzụ blockchain na ọchịchị na-achị onwe ya mepụta ikpo okwu na-adịgide adịgide, nke obodo na-achị maka nchekwa na nkwalite asụsụ Africa.",
+      "feature1": {
+        "title": "Ọchịchị Na-achị Onwe Ya",
+        "description": "Ndị otu obodo na-eme mkpebi site na usoro ọchịchị onye kwuo uche ya pụtara ìhè site na iji ịtụ vootu dabere na blockchain."
+      },
+      "feature2": {
+        "title": "Akụrụngwa Dijitalụ",
+        "description": "Wulite ọba akwụkwọ dijitalụ zuru ezu, ngwaọrụ ntụgharị asụsụ, na ikpo okwu mmụta maka asụsụ Africa."
+      },
+      "feature3": {
+        "title": "Ntinye Obodo",
+        "description": "Mee ka ndị na-asụ asụsụ, ndị ọkà mmụta asụsụ, na ndị na-anụ ọkụ n'obi nye aka na ọdịnaya, kwado ntụgharị asụsụ, ma gbasaa mmata."
+      },
+      "feature4": {
+        "title": "Ego Na-adịgide Adịgide",
+        "description": "Jiri usoro ego dabere na blockchain iji hụ na nkwado ogologo oge na ụgwọ ziri ezi maka ndị nyere aka."
+      }
+    },
+    "values": {
+      "title": "Ụkpụrụ Anyị",
+      "value1": {
+        "title": "Nchekwa Omenala",
+        "description": "Anyị kwenyere na asụsụ ọ bụla bụ akụ omenala bara uru nke a ga-echebe ma na-eme ememe."
+      },
+      "value2": {
+        "title": "Ịgụnye",
+        "description": "Anyị na-anabata asụsụ Africa niile, olumba, na obodo asụsụ na nkwanye ùgwù na nkwado nha anya."
+      },
+      "value3": {
+        "title": "Ime Ọhụrụ",
+        "description": "Anyị na-anabata teknụzụ kachasị ọhụrụ iji dozie nsogbu ọdịnala na nchekwa asụsụ."
+      }
+    },
+    "cta": {
+      "title": "Sonye na Ntụgharị",
+      "description": "Bụrụ akụkụ nke mgbanwe na-echekwa asụsụ Africa maka ọgbọ ndị na-abịa.",
+      "button": "Debanye aha Ugbu a"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "title": "Ụzọ Ọganihu Anyị",
+      "subtitle": "Na-atụ ụzọ gaa n'ọdịnihu asụsụ ọtụtụ nke Africa"
+    },
+    "phase1": {
+      "title": "Oge Ntọala",
+      "timeline": "Q1-Q2 2025",
+      "description": "Mepụta akụrụngwa isi, usoro ọchịchị, na ntọala obodo mbụ.",
+      "milestones": {
+        "m1": "Malite usoro ọchịchị DAO",
+        "m2": "Were ndị otu otu isi na ndị nnọchite anya",
+        "m3": "Mepụta nhazi ikpo okwu mbụ",
+        "m4": "Nabata ndị otu obodo 100 mbụ"
+      },
+      "outcomesTitle": "Nsonaazụ A Na-atụ Anyị",
+      "outcomes": {
+        "o1": "Sistemụ ọchịchị DAO na-arụ ọrụ",
+        "o2": "Obodo na-arụsi ọrụ ike nke ndị otu 100+",
+        "o3": "Ntọala akụrụngwa teknụzụ"
+      }
+    },
+    "phase2": {
+      "title": "Mmepe Ọdịnaya",
+      "timeline": "Q3-Q4 2025",
+      "description": "Wulite akụrụngwa asụsụ zuru ezu ma malite mgbalị dijitalụ.",
+      "milestones": {
+        "m1": "Malite ọnụ ụzọ akwụkwọ asụsụ",
+        "m2": "Mepụta akwụkwọ ọkọwa okwu dijitalụ maka asụsụ 10+",
+        "m3": "Mepụta ngwaọrụ ntụgharị asụsụ na API",
+        "m4": "Mepụta usoro nkwado"
+      },
+      "outcomesTitle": "Nsonaazụ A Na-atụ Anyị",
+      "outcomes": {
+        "o1": "Asụsụ 10+ nwere akụrụngwa dijitalụ",
+        "o2": "Ọba akwụkwọ ọdịnaya nke obodo na-achị",
+        "o3": "Ngwaọrụ ntụgharị asụsụ na nkwado"
+      }
+    },
+    "phase3": {
+      "title": "Mgbasawanye Ikpo Okwu",
+      "timeline": "Q1-Q2 2026",
+      "description": "Mee ka ikpo okwu dị, webata atụmatụ dị elu, ma gbasaa mkpuchi asụsụ.",
+      "milestones": {
+        "m1": "Malite ikpo okwu mmụta na nkuzi mmekọrịta",
+        "m2": "Mepụta ngwa ekwentị",
+        "m3": "Jikọta ngwaọrụ asụsụ nke AI na-akwado",
+        "m4": "Gbasaa ruo asụsụ Africa 50+"
+      },
+      "outcomesTitle": "Nsonaazụ A Na-atụ Anyị",
+      "outcomes": {
+        "o1": "Ikpo okwu mmụta zuru ezu",
+        "o2": "Ngwa ekwentị maka iOS na Android",
+        "o3": "Ngwaọrụ asụsụ emelitere AI"
+      }
+    },
+    "phase4": {
+      "title": "Mmetụta Ụwa",
+      "timeline": "Q3 2026+",
+      "description": "Nweta nkwado ụwa ma guzobe AFRILingua dị ka ikpo okwu kacha mma maka asụsụ Africa.",
+      "milestones": {
+        "m1": "Rute ndị ọrụ 1 nde na-arụ ọrụ",
+        "m2": "Mekọrịta na ụlọ ọrụ agụmakwụkwọ",
+        "m3": "Malite mmemme asambodo",
+        "m4": "Mepụta ọnụnọ mba ụwa"
+      },
+      "outcomesTitle": "Nsonaazụ A Na-atụ Anyị",
+      "outcomes": {
+        "o1": "Obodo ụwa nke ndị na-amụ asụsụ",
+        "o2": "Ikike asambodo a ma ama",
+        "o3": "Gburugburu na-adịgide adịgide maka nchekwa asụsụ"
+      }
+    },
+    "future": {
+      "title": "Ọhụụ Ogologo Oge",
+      "description": "Njem anyị anaghị akwụsị ebe a. Anyị na-eche ụwa ebe asụsụ Africa ọ bụla na-eto na dijitalụ.",
+      "goal1": {
+        "title": "Ịnweta Ụwa Niile",
+        "description": "Mee ka asụsụ Africa niile dịnụ maka onye ọ bụla, n'ebe ọ bụla n'ụwa."
+      },
+      "goal2": {
+        "title": "Ihe Nketa Omenala",
+        "description": "Mepụta ebe nchekwa dijitalụ kachasị zuru ezu nke ihe nketa asụsụ Africa nke etinyere."
+      },
+      "goal3": {
+        "title": "Ọgbọ Na-esote",
+        "description": "Mee ka ọgbọ ndị na-abịa nwee ike ijikọ na mgbọrọgwụ ha site na teknụzụ."
+      }
+    }
+  }
+}
+

@@ -1,0 +1,248 @@
+{
+  "common": {
+    "nav": {
+      "home": "Ile",
+      "about": "Nipa",
+      "roadmap": "Ọna iwaju",
+      "register": "Forukọsilẹ",
+      "contact": "Kan si wa"
+    },
+    "footer": {
+      "copyright": "© 2025 AFRILingua DAO. Gbogbo ẹtọ ti wa.",
+      "description": "Ṣe agbara awọn ede Afirika nipasẹ ijọba ti ko ni agbara."
+    },
+    "language": "Ede",
+    "loading": "N gba..."
+  },
+  "hero": {
+    "title": "Kaabo si AFRILingua",
+    "subtitle": "Ṣe agbara awọn ede Afirika nipasẹ ijọba ti ko ni agbara",
+    "description": "Darapọ mọ DAO wa lati pa, gbe, ati mu awọn ede Afirika pọ sii nipa lilo blockchain ati awọn igbesẹ ti a gbọdọ gba nipasẹ awujọ.",
+    "cta": {
+      "primary": "Darapọ mọ DAO",
+      "secondary": "Kọ ẹkọ siwaju",
+      "whitepaper": "Ṣe igbasilẹ Iwe Alawọ"
+    }
+  },
+  "register": {
+    "title": "Darapọ mọ AFRILingua DAO",
+    "subtitle": "Yan ipa rẹ ki o bẹrẹ lati ṣe ifunni si idaduro ede Afirika",
+    "form": {
+      "firstName": "Orukọ akọkọ",
+      "lastName": "Oríkì",
+      "email": "Adirẹsi imeeli",
+      "dateOfBirth": "Ọjọ ibi",
+      "countryOfOrigin": "Orílẹ-èdè ti a ti jẹ",
+      "selectCountry": "Yan orílẹ-èdè rẹ",
+      "ethnicOfOrigin": "Ẹgbẹ ènìyàn ti a ti jẹ",
+      "motherTongue": "Èdè abínibí",
+      "linguaFranca": "Èdè tí a ń sọ",
+      "linguaFrancaOptions": {
+        "en": "Gẹ̀ẹ́sì",
+        "fr": "Faransé"
+      },
+      "role": "Ipa",
+      "roleOptions": {
+        "coreTeam": "Omo Egbe Alagbara",
+        "ambassador": "Asoju",
+        "validator": "Olujẹrisi",
+        "contributor": "Olufarahan",
+        "technicalPlayer": "Oluṣiṣẹ Imọ-ẹrọ"
+      },
+      "submit": "Fi iforukọsilẹ ranṣẹ",
+      "success": "Iforukọsilẹ aṣeyọri! A o ba ọ sọrọ laipe.",
+      "error": "Aṣiṣe kan ṣẹlẹ. Jọ̀wọ gbiyanju lẹẹkan sii."
+    },
+    "roles": {
+      "coreTeam": {
+        "title": "Omo Egbe Alagbara",
+        "description": "Ṣakoso awọn igbesẹ agbekalẹ ati mu ero DAO lo siwaju."
+      },
+      "ambassador": {
+        "title": "Asoju",
+        "description": "Duro fun AFRILingua ni awujọ rẹ ki o tan imọlẹ."
+      },
+      "validator": {
+        "title": "Olujẹrisi",
+        "description": "Jẹrisi akoonu ede ki o rii daju awọn iwọn didara."
+      },
+      "contributor": {
+        "title": "Olufarahan",
+        "description": "Farahan awọn ohun elo ede, awọn itumọ, ati akoonu."
+      },
+      "technicalPlayer": {
+        "title": "Oluṣiṣẹ Imọ-ẹrọ",
+        "description": "Kọ awọn irinṣẹ, awọn imujẹmọ, ati awọn ọna idahun imọ-ẹrọ."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Nipa AFRILingua DAO",
+      "subtitle": "Didakẹ ati mu awọn ede Afirika ni agbara fun awọn ẹgbọn ti o n bo"
+    },
+    "mission": {
+      "title": "Ipa Wa",
+      "description": "AFRILingua DAO jẹ ẹgbẹ alakoso ti ko ni agbara ti o n ṣe itoju lati pa, mu idasilẹ, ati mu awọn ede Afirika ni agbara nipasẹ imọ-ẹrọ blockchain ati ijọba ti a gba nipasẹ awujọ.",
+      "statement": "Lati rii daju pe gbogbo ede Afirika n ṣe iṣẹ ni oju-ọna oni-nọmba, ṣiṣọ awọn awujọ ati idaduro iṣura asa fun awọn ẹgbọn ti o n bo."
+    },
+    "vision": {
+      "title": "Iran Wa",
+      "description": "A ronu Ọjọ-ọjọ ti awọn ede Afirika jẹ oni-nọmba ni kikun, wọpọ, ati n ṣe iṣẹ ni igun agbaye.",
+      "pillar1": {
+        "title": "Idaduro Oni-nọmba",
+        "description": "Ṣẹda awọn aṣẹ oni-nọmba to peye ti awọn ede Afirika, pẹlu awọn ọrọ ti a kọ, awọn igbasilẹ ohun, ati awọn aaye asa."
+      },
+      "pillar2": {
+        "title": "Wiwọle Agbaye",
+        "description": "Mu awọn ede Afirika wọpọ fun awọn akẹkọ ni gbogbo agbaye nipasẹ imọ-ẹrọ ati awọn ohun elo ẹkọ."
+      }
+    },
+    "problem": {
+      "title": "Ipa Wa",
+      "stat1": {
+        "title": "Ipalara Ede",
+        "description": "O ju ede 2,000 Afirika ti n dojuko iparun, pẹlu ọpọlọpọ ti ko ni iwọle oni-nọmba."
+      },
+      "stat2": {
+        "title": "Ipọnju Asa",
+        "description": "Pẹlu gbogbo ede ti o ti sọnu, a sọnu imọ asa ti o yatọ, awọn asa, ati awọn awoṣe agbaye."
+      },
+      "stat3": {
+        "title": "Awọn ohun elo Ti ko To",
+        "description": "Aini owo, iwe, ati imujẹmọ imọ-ẹrọ dina awọn igbiyanju idaduro ede."
+      }
+    },
+    "solution": {
+      "title": "Idahun Wa",
+      "description": "AFRILingua DAO n lo imọ-ẹrọ blockchain ati ijọba ti ko ni agbara lati ṣẹda ipele ti o n jẹ, ti a gba nipasẹ awujọ fun idaduro ati igbega awọn ede Afirika.",
+      "feature1": {
+        "title": "Ijọba Ti ko ni Agbara",
+        "description": "Awọn ara awujọ ṣe awọn ipinnu nipasẹ awọn ọna imọ-ijọba ti o han, ti o n lo iforogun ti o da lori blockchain."
+      },
+      "feature2": {
+        "title": "Imujẹmọ Oni-nọmba",
+        "description": "Kọ awọn iwe ẹkọ oni-nọmba to peye, awọn irinṣẹ itumọ, ati awọn ipele ẹkọ fun awọn ede Afirika."
+      },
+      "feature3": {
+        "title": "Ipilẹṣẹ Awujọ",
+        "description": "Mu awọn ọrọ ọrọ abinibi, awọn onimọ-ede, ati awọn ọlọfẹ ni agbara lati funni ni akoonu, jẹrisi awọn itumọ, ati tan imọlẹ."
+      },
+      "feature4": {
+        "title": "Owo-owo Ti o N jẹ",
+        "description": "Lo awọn ẹya owo-owo ti o da lori blockchain lati rii daju agbara igba-gigun ati san owo ti o tọ fun awọn olufiranṣẹ."
+      }
+    },
+    "values": {
+      "title": "Awọn Iye Wa",
+      "value1": {
+        "title": "Idaduro Asa",
+        "description": "A gbagbọ pe gbogbo ede jẹ iṣura asa ti ko ni iye ti o gbọdọ ni abẹ ile ati ọrẹ."
+      },
+      "value2": {
+        "title": "Ibi Tọ",
+        "description": "A ka gbogbo awọn ede Afirika, awọn ede-ede, ati awọn awujọ ede pẹlu ẹgbẹ ati atilẹyin ti o dogba."
+      },
+      "value3": {
+        "title": "Imudara",
+        "description": "A gba imọ-ẹrọ ti o ga julọ lati yanju awọn ipa atijọ ni idaduro ede."
+      }
+    },
+    "cta": {
+      "title": "Darapọ mọ Iyipada",
+      "description": "Jẹ apakan ti iyipada ti o n pa awọn ede Afirika fun awọn ẹgbọn ti o n bo.",
+      "button": "Forukọsilẹ Ni bayi"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "title": "Ọna Iwaju Wa",
+      "subtitle": "Kọ awọn ọna si ọjọ-ọjọ Afirika ọpọlọpọ ede"
+    },
+    "phase1": {
+      "title": "Ipele Ifilọlẹ",
+      "timeline": "Q1-Q2 2025",
+      "description": "Ṣe iduro awọn imujẹmọ akọkọ, fọwọsi ijọba, ati ipilẹ awujọ ibẹrẹ.",
+      "milestones": {
+        "m1": "Ṣii imujẹmọ ijọba DAO",
+        "m2": "Gba awọn ara ẹgbẹ akọkọ ati awọn asoju",
+        "m3": "Ṣẹda awọn itọka ipele ibẹrẹ",
+        "m4": "Fi awọn ara awujọ 100 akọkọ wọ"
+      },
+      "outcomesTitle": "Awọn Ipinnu Ti A Rete",
+      "outcomes": {
+        "o1": "Ẹrọ ijọba DAO ti o n ṣiṣẹ",
+        "o2": "Awujọ ti o n ṣiṣẹ ti awọn ara 100+",
+        "o3": "Ifilọlẹ imujẹmọ imọ-ẹrọ"
+      }
+    },
+    "phase2": {
+      "title": "Idagbasoke Akoonu",
+      "timeline": "Q3-Q4 2025",
+      "description": "Kọ awọn ohun elo ede to peye ati bẹrẹ awọn igbiyanju oni-nọmba.",
+      "milestones": {
+        "m1": "Ṣii ọna akoonu ede",
+        "m2": "Ṣẹda awọn iwe-ọrọ oni-nọmba fun awọn ede 10+",
+        "m3": "Ṣẹda awọn irinṣẹ itumọ ati awọn API",
+        "m4": "Ṣe awọn ọna ijẹrisi"
+      },
+      "outcomesTitle": "Awọn Ipinnu Ti A Rete",
+      "outcomes": {
+        "o1": "Awọn ede 10+ pẹlu awọn ohun elo oni-nọmba",
+        "o2": "Iwe ẹkọ akoonu ti a gba nipasẹ awujọ",
+        "o3": "Awọn irinṣẹ itumọ ati ijẹrisi"
+      }
+    },
+    "phase3": {
+      "title": "Idagbasoke Ipele",
+      "timeline": "Q1-Q2 2026",
+      "description": "Yiyan ipele, ṣe idagbasoke awọn ẹya ga, ati idagbasoke ibori ede.",
+      "milestones": {
+        "m1": "Ṣii ipele ẹkọ pẹlu awọn ẹkọ ti o n baara pọ",
+        "m2": "Ṣẹda awọn ohun elo ojukọ",
+        "m3": "Ṣe ifasẹsi awọn irinṣẹ ede ti o n lo AI",
+        "m4": "Idagbasoke si awọn ede Afirika 50+"
+      },
+      "outcomesTitle": "Awọn Ipinnu Ti A Rete",
+      "outcomes": {
+        "o1": "Ipele ẹkọ to peye",
+        "o2": "Awọn ohun elo ojukọ fun iOS ati Android",
+        "o3": "Awọn irinṣẹ ede ti o ga AI"
+      }
+    },
+    "phase4": {
+      "title": "Ipa Agbaye",
+      "timeline": "Q3 2026+",
+      "description": "De ọye agbaye ati ṣe iduro AFRILingua bi ipele akọkọ fun awọn ede Afirika.",
+      "milestones": {
+        "m1": "De awọn olumulo 1 miliọn ti o n ṣiṣẹ",
+        "m2": "Ṣe ajọṣepọ pẹlu awọn ile-ẹkọ",
+        "m3": "Ṣii awọn ọna ifasẹsi",
+        "m4": "Ṣe iduro iwọle agbaye"
+      },
+      "outcomesTitle": "Awọn Ipinnu Ti A Rete",
+      "outcomes": {
+        "o1": "Awujọ agbaye ti awọn akẹkọ ede",
+        "o2": "Agbara ifasẹsi ti a mọ",
+        "o3": "Ibi agbegbe ti o n jẹ fun idaduro ede"
+      }
+    },
+    "future": {
+      "title": "Iran Igba-gigun",
+      "description": "Irinkiri wa ko pari nibi. A ronu aye kan nibiti gbogbo ede Afirika n ṣe iṣẹ oni-nọmba.",
+      "goal1": {
+        "title": "Wiwọle Gbogbogbo",
+        "description": "Mu gbogbo awọn ede Afirika wọpọ fun ẹnikẹni, nihin ninu aye."
+      },
+      "goal2": {
+        "title": "Iṣura Asa",
+        "description": "Ṣẹda aṣẹ oni-nọmba to peye julọ ti iṣura ede Afirika ti a ti ṣe."
+      },
+      "goal3": {
+        "title": "Ẹgbọn Ti o N Bo",
+        "description": "Mu awọn ẹgbọn ti o n bo ni agbara lati ṣe asopọ pẹlu awọn gbongbo wọn nipasẹ imọ-ẹrọ."
+      }
+    }
+  }
+}
+
