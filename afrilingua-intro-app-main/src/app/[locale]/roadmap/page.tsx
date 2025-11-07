@@ -76,7 +76,7 @@ export default function RoadmapPage() {
                   <div className="grid md:grid-cols-2 gap-4">
                     {[1, 2, 3, 4].map((milestone) => {
                       const milestoneKey = `${phase.key}.milestones.m${milestone}`;
-                      const milestoneExists = t.raw(milestoneKey) !== milestoneKey;
+                      const milestoneExists = t(milestoneKey) !== milestoneKey;
                       if (!milestoneExists) return null;
                       
                       return (
@@ -91,13 +91,13 @@ export default function RoadmapPage() {
                   </div>
 
                   {/* Outcomes */}
-                  {t.raw(`${phase.key}.outcomes`) && (
+                  {t(`${phase.key}.outcomesTitle`) !== `${phase.key}.outcomesTitle` && (
                     <div className="mt-6 pt-6 border-t-2 border-gray-300">
                       <h3 className="font-semibold text-gray-900 mb-3">{t(`${phase.key}.outcomesTitle`)}</h3>
                       <ul className="list-disc list-inside space-y-2 text-gray-700">
                         {[1, 2, 3].map((outcome) => {
                           const outcomeKey = `${phase.key}.outcomes.o${outcome}`;
-                          const outcomeExists = t.raw(outcomeKey) !== outcomeKey;
+                          const outcomeExists = t(outcomeKey) !== outcomeKey;
                           if (!outcomeExists) return null;
                           
                           return (
