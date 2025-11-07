@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/routing';
 
 export default function VerifyEmailPage() {
   const t = useTranslations('register');
@@ -55,12 +56,12 @@ export default function VerifyEmailPage() {
               <div className="text-6xl mb-4">✅</div>
               <h2 className="text-2xl font-bold text-green-600 mb-2">Email Verified!</h2>
               <p className="text-gray-600 mb-6">{message}</p>
-              <a
+              <Link
                 href="/"
                 className="inline-block bg-primary-green text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors"
               >
                 Go to Homepage
-              </a>
+              </Link>
             </>
           )}
           
@@ -70,18 +71,18 @@ export default function VerifyEmailPage() {
               <h2 className="text-2xl font-bold text-red-600 mb-2">Verification Failed</h2>
               <p className="text-gray-600 mb-6">{message}</p>
               <div className="space-y-3">
-                <a
+                <Link
                   href="/register"
                   className="block bg-primary-green text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors"
                 >
                   Register Again
-                </a>
-                <a
+                </Link>
+                <Link
                   href="/"
                   className="block text-primary-green hover:underline"
                 >
                   Go to Homepage
-                </a>
+                </Link>
               </div>
             </>
           )}

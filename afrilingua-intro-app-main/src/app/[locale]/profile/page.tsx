@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/routing';
+import Image from 'next/image';
 
 interface UserProfile {
   id: string;
@@ -135,9 +137,9 @@ export default function ProfilePage() {
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <p className="text-red-600 mb-4">{error || 'Profile not found'}</p>
-          <a href="/register" className="text-primary-green hover:underline">
+          <Link href="/register" className="text-primary-green hover:underline">
             Register to create a profile
-          </a>
+          </Link>
         </div>
       </div>
     );
@@ -163,9 +165,11 @@ export default function ProfilePage() {
               <div className="relative">
                 <div className="w-32 h-32 rounded-full bg-white p-1 shadow-lg">
                   {profile.profile_picture_url ? (
-                    <img
+                    <Image
                       src={profile.profile_picture_url}
                       alt={fullName}
+                      width={128}
+                      height={128}
                       className="w-full h-full rounded-full object-cover"
                     />
                   ) : (

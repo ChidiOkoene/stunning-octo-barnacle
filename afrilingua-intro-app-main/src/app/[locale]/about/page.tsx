@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/routing';
 
 export default function AboutPage() {
   const t = useTranslations('about');
@@ -149,9 +150,9 @@ export default function AboutPage() {
         <section className="bg-gradient-to-r from-primary-green to-[#2d8659] text-white rounded-xl p-12 text-center">
           <h2 className="text-4xl font-bold mb-4">{t('cta.title')}</h2>
           <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">{t('cta.description')}</p>
-          <a href="/register" className="bg-primary-gold text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-yellow-400 transition-colors inline-block">
+          <Link href="/register" className="bg-primary-gold text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-yellow-400 transition-colors inline-block">
             {t('cta.button')}
-          </a>
+          </Link>
         </section>
       </div>
     </div>
