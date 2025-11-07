@@ -45,11 +45,30 @@ export async function sendRegistrationConfirmationEmail(
   name: string,
   role: string,
   verificationToken: string,
-  locale: string = 'en'
+  locale: string = 'en',
+  baseUrl?: string
 ) {
-  // Get base URL from environment or use localhost for development
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
-  const verificationLink = `${baseUrl}/${locale}/verify-email?token=${verificationToken}`;
+  // Get base URL from parameter, environment, or detect from Vercel
+  let appUrl = baseUrl;
+  
+  if (!appUrl) {
+    // Try environment variable first
+    appUrl = process.env.NEXT_PUBLIC_APP_URL;
+    
+    // If on Vercel, use VERCEL_URL (automatically provided)
+    if (!appUrl && process.env.VERCEL_URL) {
+      appUrl = `https://${process.env.VERCEL_URL}`;
+    }
+    
+    // Fallback to localhost only in development
+    if (!appUrl) {
+      appUrl = process.env.NODE_ENV === 'production' 
+        ? 'https://your-domain.com' // This should never be reached if VERCEL_URL is set
+        : 'http://localhost:3000';
+    }
+  }
+  
+  const verificationLink = `${appUrl}/${locale}/verify-email?token=${verificationToken}`;
   
   const subject = 'Welcome to AFRILingua DAO - Verify Your Email';
   

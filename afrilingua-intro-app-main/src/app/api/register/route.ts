@@ -142,7 +142,13 @@ export async function POST(request: Request) {
       };
       const roleLabel = roleLabels[role] || role;
       
-      await sendRegistrationConfirmationEmail(email, fullName, roleLabel, verificationToken, locale || 'en');
+      // Extract base URL from request (check headers first for proxy/load balancer support)
+      const host = request.headers.get('host') || request.headers.get('x-forwarded-host');
+      const protocol = request.headers.get('x-forwarded-proto') || 
+                      (request.url.startsWith('https') ? 'https' : 'http');
+      const baseUrl = host ? `${protocol}://${host}` : undefined;
+      
+      await sendRegistrationConfirmationEmail(email, fullName, roleLabel, verificationToken, locale || 'en', baseUrl);
     } catch (emailError) {
       // Log email error but don't fail the registration
       console.error('Email sending failed:', emailError);
